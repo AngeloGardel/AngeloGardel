@@ -56,7 +56,7 @@ height="165"
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AngeloGardel/AngeloGardel/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AngeloGardel/AngeloGardel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
